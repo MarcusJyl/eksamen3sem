@@ -1,5 +1,5 @@
 
-# API-QuickStart-project [![Build Status](https://travis-ci.com/MarcusJyl/API-QuickStart-project.svg?branch=main)](https://travis-ci.com/MarcusJyl/API-QuickStart-project)
+[![Build Status](https://travis-ci.com/MarcusJyl/eksamen3sem.svg?branch=main)](https://travis-ci.com/MarcusJyl/eksamen3sem)
 
 ## Backend setup
 for at opsætte start koden skal der gøres det samme som for den udleveret start koden som ses i dette link
